@@ -16,7 +16,7 @@ This project is a simple restaurant menu designed using the CSS framework Tailwi
    cd repo-name
    
 
-2. Install dependencies:
+2. Install dependencies (node module) :
       npm install
    
 
