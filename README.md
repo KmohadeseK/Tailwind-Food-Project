@@ -8,6 +8,7 @@ This project is a simple restaurant menu designed using the CSS framework Tailwi
 - Utilization of Tailwind CSS for fast and beautiful design
 - Ability to add, edit, and delete menu items
 - Homepage includes different categories of food
+- Drinks page, It has dark mode and light mode
 
 ## Installation and Setup
 
